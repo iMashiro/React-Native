@@ -4,8 +4,6 @@
 
 > React-Native applications repository
 
-> ideally one sentence
-
 > React-Native, Android, Mobile
 
 ## Table of Contents (Optional)

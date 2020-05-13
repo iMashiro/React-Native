@@ -6,7 +6,7 @@
 
 > React-Native, Android, Mobile
 
-## Table of Contents (Optional)
+## Table of Contents
 
 - [Applications](#applications)
 - [License](#license)
